@@ -1,0 +1,19 @@
+repo_name: 2lambda123/FBI-tools
+report_id: 5a35b9a1b35c3fb21e3701991cb531b8
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-29T20:30:31+00:00'
+requested_by: danieldurnea
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
